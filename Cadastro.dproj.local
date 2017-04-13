@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/04/08 11:48:43.000.218,=d:\Users\Fernando\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/04/08 11:49:57.000.456,d:\Users\Fernando\Documents\Embarcadero\Studio\Projects\Cadastro.dproj=d:\Users\Fernando\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/04/08 11:57:40.000.596,d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\Cadastro.dproj=d:\Users\Fernando\Documents\Embarcadero\Studio\Projects\Cadastro.dproj</Transaction>
+    <Transaction>2017/04/08 11:57:47.000.414,=d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\Unit1.pas</Transaction>
+    <Transaction>2017/04/08 11:58:58.000.084,d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\uPrincipal.pas=d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\Unit1.pas</Transaction>
+    <Transaction>2017/04/08 11:58:58.000.084,d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\uPrincipal.dfm=d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\Unit1.dfm</Transaction>
+    <Transaction>2017/04/09 20:03:16.000.968,=d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\ABOUT.pas</Transaction>
+    <Transaction>2017/04/09 20:03:56.000.649,d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\uSobre.dfm=d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\ABOUT.dfm</Transaction>
+    <Transaction>2017/04/09 20:03:56.000.649,d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\uSobre.pas=d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\ABOUT.pas</Transaction>
+    <Transaction>2017/04/09 20:23:31.000.439,=d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\Unit1.pas</Transaction>
+    <Transaction>2017/04/09 20:34:28.000.166,d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\Unit1.pas=d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\uSubCadastros.pas</Transaction>
+    <Transaction>2017/04/09 20:34:28.000.166,d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\Unit1.dfm=d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\uSubCadastros.dfm</Transaction>
+    <Transaction>2017/04/09 20:47:53.000.873,=d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\Unit1.pas</Transaction>
+    <Transaction>2017/04/09 20:48:34.000.345,=d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\Unit1.pas</Transaction>
+    <Transaction>2017/04/09 20:48:52.000.788,d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\Unit1.dfm=d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\uDM.dfm</Transaction>
+    <Transaction>2017/04/09 20:48:52.000.788,d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\Unit1.pas=d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\uDM.pas</Transaction>
+    <Transaction>2017/04/11 21:37:06.953,=d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\Unit1.pas</Transaction>
+    <Transaction>2017/04/11 21:38:34.928,d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\uProdutos.dfm=d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\Unit1.dfm</Transaction>
+    <Transaction>2017/04/11 21:38:34.928,d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\uProdutos.pas=d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\Unit1.pas</Transaction>
+    <Transaction>2017/04/12 21:44:16.512,=d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\Unit1.pas</Transaction>
+    <Transaction>2017/04/12 21:46:55.375,d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\uCalendario.dfm=d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\Unit1.dfm</Transaction>
+    <Transaction>2017/04/12 21:46:55.375,d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\uCalendario.pas=d:\Users\Fernando\Desktop\Delphi_10.2_SQLite\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

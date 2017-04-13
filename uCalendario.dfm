@@ -1,0 +1,39 @@
+object frmCalendario: TfrmCalendario
+  Left = 0
+  Top = 0
+  BorderStyle = bsToolWindow
+  Caption = 'Calend'#225'rio'
+  ClientHeight = 204
+  ClientWidth = 242
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  FormStyle = fsMDIChild
+  OldCreateOrder = False
+  Position = poDesktopCenter
+  Visible = True
+  OnClose = FormClose
+  OnCreate = FormCreate
+  PixelsPerInch = 96
+  TextHeight = 13
+  object btFechar: TButton
+    Left = 87
+    Top = 174
+    Width = 75
+    Height = 25
+    Caption = 'Fechar'
+    TabOrder = 0
+    OnClick = btFecharClick
+  end
+  object MonthCalendar1: TMonthCalendar
+    Left = 8
+    Top = 8
+    Width = 225
+    Height = 160
+    Date = 40234.906292812500000000
+    TabOrder = 1
+  end
+end
